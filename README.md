@@ -31,5 +31,5 @@ pip install -r requirements.txt
 ```
 
 ```bash
-pip install jupyter
+pip install jupyter notebook
 ```
