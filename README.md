@@ -1,6 +1,6 @@
 # Investments for Electric Vehicles
 
-**Authors**: Fred Vo, Chelsea Jordan, Merilyn Marie, Adrian Benoit, Brandon Ceniceros, Elena Yatzeck
+**Authors**: Fred Vo, Chelsea Jordan, Merilyn Marie, Adrian Benoit, Brandon Ceniceros, Elena Yatzeck, and Craig Little
 
 Focusing on identifying optimal locations for electric vehicle charging stations. Leveraging data analysis techniques and tools, this project provides valuable insights into strategic areas for investment in the growing electric vehicle infrastructure.
 
