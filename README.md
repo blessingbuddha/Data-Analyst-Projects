@@ -21,7 +21,7 @@ Files:
 Clone the repo
 
 ```bash
-git clone (https://github.com/blessingbuddha/Data-Analyst-Projects.git)
+git clone (https://github.com/blessingbuddha/Electric-Vehicle-Investments.git)
 ```
 
 Install Python packages
