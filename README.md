@@ -6,19 +6,20 @@ Focusing on identifying optimal locations for electric vehicle charging stations
 
 ## Features
 Folders: 
-1. Data sets aquired
-2. Group data sets that were cleaned and SQL tables
+1. Cleaned Data Sets containing Excel, Python, and Tableau
+2. Raw Data Sets of Electric vehicles
 
 Files:
 1. Excel spreadsheet on all the data and created pivots
-2. An EDA of the analyzed data
+2. Python cleaning of the data sets
+3. Tableau to produce a visualization of work
 
 ## Getting Started
 ### Prerequisites
 - Python 3.6 or higher
 - Jupyter Notebook
 - Excel
-- SQLite
+- Tableau Public
 
 ### Installation
 Clone the repo
